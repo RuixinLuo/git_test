@@ -3,4 +3,4 @@ welcome to my github!
 email: ruixin_luo@tju.edu.cn
 tel: XXXXX
 
-Creating a new branch!
+Creating a new branch is quick!
